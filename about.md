@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 # 联系方式
 
 *   Email：1012976477@qq.com
-*   QQ/微信号：1012976477/张远平
+*   QQ/微信号：1012976477/WmiqiW
 
 * * *
 
